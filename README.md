@@ -6,6 +6,9 @@ It allows users to create tasks, organize them into columns (**To Do**, **In Pro
 This project was created as part of my portfolio to demonstrate front-end skills with React, state management, drag-and-drop and a clean UI.
 
 ---
+## Live Demo
+
+[Open TaskFlow Board](https://danielmartinez2.github.io/taskflow-board/)
 
 ## Features
 
