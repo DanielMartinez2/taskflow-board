@@ -10,6 +10,10 @@ This project was created as part of my portfolio to demonstrate front-end skills
 
 [Open TaskFlow Board](https://danielmartinez2.github.io/taskflow-board/)
 
+## Preview
+
+![TaskFlow Board preview](docs/taskflow-board.png)
+
 ## Features
 
 -  Three default columns: **To Do**, **In Progress**, **Done**
